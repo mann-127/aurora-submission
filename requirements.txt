@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+httpx
+numpy
+scikit-learn
+sentence-transformers
+google-generativeai
